@@ -57,3 +57,8 @@ linpack/linpack.amd64
 linpack/linpack.amd64-amd64
 linpack/linpack.amd64-aarch64
 
+dhrystone/dhrystone
+dhrystone/dhrystone.amd64
+dhrystone/dhrystone.amd64-amd64
+dhrystone/dhrystone.amd64-aarch64
+
