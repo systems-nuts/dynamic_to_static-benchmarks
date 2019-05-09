@@ -1,0 +1,1 @@
+similar problem to CG and MG, however this is giving seg fault when compiled dynamically (the same happened for static)
