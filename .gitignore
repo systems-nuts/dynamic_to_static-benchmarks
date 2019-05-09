@@ -26,3 +26,8 @@ npb-sp/sp
 npb-sp/sp.amd64
 npb-sp/sp.amd64-amd64
 npb-sp/sp.amd64-aarch64
+
+npb-bt/bt
+npb-bt/bt.amd64
+npb-bt/bt.amd64-amd64
+npb-bt/bt.amd64-aarch64
