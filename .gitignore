@@ -36,3 +36,9 @@ npb-lu/lu
 npb-lu/lu.amd64
 npb-lu/lu.amd64-amd64
 npb-lu/lu.amd64-aarch64
+
+npb-ua/ua
+npb-ua/ua.amd64
+npb-ua/ua.amd64-amd64
+npb-ua/ua.amd64-aarch64
+
