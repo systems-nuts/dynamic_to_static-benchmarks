@@ -1,0 +1,8 @@
+*.o
+*.log
+*.cfg
+
+npb-is/is
+npb-is/is.amd64
+npb-is/is.amd64-amd64
+npb-is/is.amd64-aarch64
