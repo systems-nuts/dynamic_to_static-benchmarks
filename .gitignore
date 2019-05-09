@@ -16,3 +16,13 @@ npb-mg/mg
 npb-mg/mg.amd64
 npb-mg/mg.amd64-amd64
 npb-mg/mg.amd64-aarch64
+
+npb-ep/ep
+npb-ep/ep.amd64
+npb-ep/ep.amd64-amd64
+npb-ep/ep.amd64-aarch64
+
+npb-sp/sp
+npb-sp/sp.amd64
+npb-sp/sp.amd64-amd64
+npb-sp/sp.amd64-aarch64
