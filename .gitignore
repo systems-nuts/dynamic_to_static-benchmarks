@@ -67,3 +67,9 @@ blackscholes/blackscholes.amd64
 blackscholes/blackscholes.amd64-amd64
 blackscholes/blackscholes.amd64-aarch64
 
+phoenix-kmeans/kmeans
+phoenix-kmeans/kmeans.amd64
+phoenix-kmeans/kmeans.amd64-amd64
+phoenix-kmeans/kmeans.amd64-aarch64
+
+
