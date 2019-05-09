@@ -52,3 +52,8 @@ npb-ft/ft.amd64
 npb-ft/ft.amd64-amd64
 npb-ft/ft.amd64-aarch64
 
+linpack/linpack
+linpack/linpack.amd64
+linpack/linpack.amd64-amd64
+linpack/linpack.amd64-aarch64
+
