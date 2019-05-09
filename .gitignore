@@ -17,6 +17,11 @@ npb-mg/mg.amd64
 npb-mg/mg.amd64-amd64
 npb-mg/mg.amd64-aarch64
 
+npb-dc/dc
+npb-dc/dc.amd64
+npb-dc/dc.amd64-amd64
+npb-dc/dc.amd64-aarch64
+
 npb-ep/ep
 npb-ep/ep.amd64
 npb-ep/ep.amd64-amd64
@@ -41,4 +46,9 @@ npb-ua/ua
 npb-ua/ua.amd64
 npb-ua/ua.amd64-amd64
 npb-ua/ua.amd64-aarch64
+
+npb-ft/ft
+npb-ft/ft.amd64
+npb-ft/ft.amd64-amd64
+npb-ft/ft.amd64-aarch64
 
