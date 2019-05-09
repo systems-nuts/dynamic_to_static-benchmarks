@@ -6,3 +6,9 @@ npb-is/is
 npb-is/is.amd64
 npb-is/is.amd64-amd64
 npb-is/is.amd64-aarch64
+
+npb-cg/cg
+npb-cg/cg.amd64
+npb-cg/cg.amd64-amd64
+npb-cg/cg.amd64-aarch64
+
