@@ -27,4 +27,4 @@ all: A
 
 
 clean:
-	rm -rf *.o $(PROG)
+	rm -rf *.o $(PROG) ADC.*

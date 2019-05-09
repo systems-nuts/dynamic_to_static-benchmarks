@@ -12,3 +12,7 @@ npb-cg/cg.amd64
 npb-cg/cg.amd64-amd64
 npb-cg/cg.amd64-aarch64
 
+npb-mg/mg
+npb-mg/mg.amd64
+npb-mg/mg.amd64-amd64
+npb-mg/mg.amd64-aarch64
