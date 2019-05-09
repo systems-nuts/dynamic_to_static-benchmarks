@@ -1,4 +1,4 @@
-; ModuleID = '/home/antonio/npb/is-malloc/is.amd64.bc'
+; ModuleID = 'is.amd64.bc'
 
 source_filename = "llvm-link"
 
