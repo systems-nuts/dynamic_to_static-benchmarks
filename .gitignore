@@ -62,3 +62,8 @@ dhrystone/dhrystone.amd64
 dhrystone/dhrystone.amd64-amd64
 dhrystone/dhrystone.amd64-aarch64
 
+blackscholes/blackscholes
+blackscholes/blackscholes.amd64
+blackscholes/blackscholes.amd64-amd64
+blackscholes/blackscholes.amd64-aarch64
+
