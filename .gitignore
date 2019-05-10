@@ -79,4 +79,11 @@ phoenix-mm/mm.amd64-aarch64
 phoenix-mm/matrix_file_A.txt
 phoenix-mm/matrix_file_B.txt
 
+phoenix-pca/pca
+phoenix-pca/pca.amd64
+phoenix-pca/pca.amd64-amd64
+phoenix-pca/pca.amd64-aarch64
+
+
+
 
