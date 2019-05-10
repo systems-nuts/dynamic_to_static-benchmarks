@@ -7,3 +7,5 @@ npb-dc
 linkpack (see TODO)
 dhrystone
 phoenix-kmeans
+phoenix-mm
+phoenix-pca
