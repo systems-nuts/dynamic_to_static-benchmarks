@@ -72,4 +72,11 @@ phoenix-kmeans/kmeans.amd64
 phoenix-kmeans/kmeans.amd64-amd64
 phoenix-kmeans/kmeans.amd64-aarch64
 
+phoenix-mm/mm
+phoenix-mm/mm.amd64
+phoenix-mm/mm.amd64-amd64
+phoenix-mm/mm.amd64-aarch64
+phoenix-mm/matrix_file_A.txt
+phoenix-mm/matrix_file_B.txt
+
 
